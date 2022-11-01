@@ -26,5 +26,4 @@ public class FristProblem
 		System.out.println(result);
 	}
 }
-//input arr=[1,2,3,4]
-//output arr=[24,12,8,6]
+
