@@ -38,27 +38,3 @@ public class SecondProgram
 	}
 
 }
-//input num=[-1,0,1,2,-1,-4]
-//output num=[[-1,-1,2][-1,0,1]
-
-//for(int i=arr.length-1;i>=0;i--)
-//{
-//	su=0;
-//	
-//	for(int j=i-1;j>0;j--)
-//	{
-//		su=0;
-//		su+=arr[i];
-//		su+=arr[j]+arr[j-1];
-//		System.out.println(su);
-//		if(su==0)
-//		{
-//			res.add(arr[i]);
-//			res.add(arr[j]);
-//			res.add(arr[j-1]);
-//		}
-//	}
-//	result.add((ArrayList<Integer>) res);
-//	o--;
-//}
-//System.out.println(result);
